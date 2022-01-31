@@ -1,3 +1,41 @@
-.title {
-    color: #02ccba;
-  }
+.header {
+    background-color: #98d98e;
+    height: 90px;
+    color: white;
+}
+
+.header_logo {
+    font-size: 36px;
+    float: left;
+    padding: 20px 40px;
+}
+
+.header_list li {
+    list-style: none;
+    float: left;
+    padding: 33px 20px;
+}
+
+.footer {
+    background-color: #98d98e;
+    height: 270px;
+    color: white;
+}
+
+.footer_logo {
+    font-size: 30px;
+    float: left;
+    padding: 20px 40px;
+}
+
+.footer_list li {
+    list-style: none;
+    text-align: right;
+    padding: 10px 30px;
+}
+
+.copyright {
+    color: whitesmoke;
+    text-align: center;
+    font-size: 12px;
+}
